@@ -26,7 +26,7 @@ git clone https://github.com/dong-hao/occam1dmt/ your_local_folder
 ```
 
 ## UNITS
-The internal scale here is log10(Ohmm) - instead of linear scale for both resistivity and apparent resistivity. The layer depth is in (linear) metres, while the impedance phase is in degrees. 
+The internal scale here is log10(Ohmm) - instead of linear scale for both resistivity and apparent resistivity. The layer depth is in (linear) metres, while the impedance phase is in rads. 
 
 ## ERRORS    
 Currently the internal error here is standard deviation.
