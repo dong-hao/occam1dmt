@@ -6,7 +6,7 @@ The example data are (literally) copied from Table 5 of the Constable 1987 paper
 
 Constable, S. C., Parker, R. L., & Constable, C. G. (1987). Occam’s inversion: A practical algorithm for generating smooth models from electromagnetic sounding data. Geophysics, 52(3), 289–300. 
 
-Cull, J. P., 1985, Magnetotelluric soundings over a Precambrian con- tact in Australia: Geophys. J. Roy. Astr. Sot., 80, 661-675.
+Cull, J. P. (1985). Magnetotelluric soundings over a Precambrian contact in Australia. Geophys. J. Roy. Astr. Sot., 80, 661-675.
 
 see also my toy occam code for DC resistivity:
 
